@@ -28,6 +28,18 @@ In the spirit of Ubuntu, this tool:
 
 ---
 
+## 🧪 Challenge Features Implemented
+
+- ✅ **Handles Multiple URLs**: User can input as many URLs as needed
+- ✅ **Safe Downloading**: Only downloads via `http/https`; validates content type
+- ✅ **Duplicate Detection**: Uses image hashing to skip duplicates
+- ✅ **Header Checking**: Verifies `Content-Type` before saving the file
+- ✅ **Robust Error Handling**: Gracefully handles timeouts, invalid URLs, unsupported formats
+
+
+
+---
+
 ## 🚀 How to Use
 
 ### 1. Clone this repository
